@@ -1,4 +1,4 @@
-# PDF TO AUDIO APP
+# Pdf-To-Audio App with Streamlit
 
 This is a Streamlit app that allows users to upload a PDF file, extract the text, and convert it into an audio file. The app is built using Python and several libraries, including PyPDF2 and gtts.
 
