@@ -1,5 +1,0 @@
-PyPDF2==3.0.1
-streamlit==1.17.0
-gtts==2.3.1
-imutils==0.5.4
-
